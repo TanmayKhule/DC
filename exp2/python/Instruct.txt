@@ -1,0 +1,2 @@
+make sure pyro4 is installed
+first run 'pyro4-ns' in a new cmd followed by server.py and client.py in new files as well
